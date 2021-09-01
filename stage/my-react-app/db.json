@@ -1,0 +1,31 @@
+{
+    "services": [{
+            "id": 1,
+            "title": "Oxygen Concentrateur",
+            "thumbnailUrl": "http://localhost:9000/p1O2.png",
+            "rate": 34,
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "title": "Folding exercice bike",
+            "rate": 50,
+            "thumbnailUrl": "http://localhost:9000/velo.jpg",
+            "rating": 3
+        },
+        {
+            "id": 3,
+            "title": "Laptop",
+            "thumbnailUrl": "http://localhost:9000/pc.jpg",
+            "rate": 42,
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "title": "Revlon Salon One-Step Hair Dryer & Volumiser",
+            "thumbnailUrl": "http://localhost:9000/hair.jpg",
+            "rate": 50,
+            "rating": 5
+        }
+    ]
+}
